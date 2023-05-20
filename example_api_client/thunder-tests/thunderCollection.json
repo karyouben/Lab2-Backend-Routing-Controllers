@@ -24,7 +24,8 @@
         "name": "RESTAURANTS",
         "containerId": "",
         "created": "2021-07-25T08:18:17.294Z",
-        "sortNum": 20000
+        "sortNum": 20000,
+        "settings": {}
       },
       {
         "_id": "5dab484e-b87f-4457-96c5-9077cb330454",
